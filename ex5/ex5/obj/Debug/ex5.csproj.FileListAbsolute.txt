@@ -1,0 +1,12 @@
+J:\programação e algoritmos\Do_While\ex5\ex5\bin\Debug\ex5.exe.config
+J:\programação e algoritmos\Do_While\ex5\ex5\bin\Debug\ex5.exe
+J:\programação e algoritmos\Do_While\ex5\ex5\bin\Debug\ex5.pdb
+J:\programação e algoritmos\Do_While\ex5\ex5\obj\Debug\ex5.csprojResolveAssemblyReference.cache
+J:\programação e algoritmos\Do_While\ex5\ex5\obj\Debug\ex5.exe
+J:\programação e algoritmos\Do_While\ex5\ex5\obj\Debug\ex5.pdb
+I:\programação e algoritmos\Do_While\ex5\ex5\bin\Debug\ex5.exe.config
+I:\programação e algoritmos\Do_While\ex5\ex5\obj\Debug\ex5.exe
+I:\programação e algoritmos\Do_While\ex5\ex5\obj\Debug\ex5.pdb
+I:\programação e algoritmos\Do_While\ex5\ex5\bin\Debug\ex5.exe
+I:\programação e algoritmos\Do_While\ex5\ex5\bin\Debug\ex5.pdb
+I:\programação e algoritmos\Do_While\ex5\ex5\obj\Debug\ex5.csprojResolveAssemblyReference.cache
